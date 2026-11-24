@@ -21,6 +21,30 @@
 
 ---
 
+## 📖 About GLX Passwords
+
+### Your Nextcloud passwords in Firefox
+
+GLX Passwords connects Firefox with the Passwords app of your own Nextcloud. It recognizes login forms, including multi-step logins where user name and password come on separate pages, fills them in and offers to save new or changed logins. Your passwords stay in your own Nextcloud, encrypted, and are never sent anywhere else.
+
+### Several accounts, folders and tags
+
+Several accounts per website are supported: you pick the right one in a small selection window, save a login as a new entry or update an existing one. Logins can be sorted into folders and marked with tags, and the selection window shows tags and the first note line.
+
+### Address data with one click
+
+Personal data such as name, street, postcode or phone number for address forms is stored in your Nextcloud as well and filled only into clearly matching fields. If there are several values, you choose when you click into the field.
+
+### Locked with a master password
+
+A master password locks access until Firefox is closed. GLX Passwords runs alongside Firefox's own password manager without you having to change anything.
+
+### Easy to set up
+
+Clear settings with cards, several colour themes and built-in help. Connection, master password and import are at the top, everything else is explained step by step.
+
+---
+
 ## ✨ Features
 
 - 🚀 **Works with your own Nextcloud:** Uses the Passwords app of your Nextcloud as the safe store, nothing goes to third parties.
