@@ -45,6 +45,30 @@ Clear settings with cards, several colour themes and built-in help. Connection, 
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Settings: Nextcloud connection, master password, Firefox import
+
+<p align="center"><img src="screenshots/01-settings.jpg" alt="Settings: Nextcloud connection, master password, Firefox import" width="850"></p>
+
+### 2️⃣ Save a new password straight from the toolbar
+
+<p align="center"><img src="screenshots/02-new-password.jpg" alt="Save a new password straight from the toolbar" width="850"></p>
+
+### 3️⃣ Toolbar window with connection status
+
+<p align="center"><img src="screenshots/03-popup.jpg" alt="Toolbar window with connection status" width="850"></p>
+
+### 4️⃣ Step-by-step guide for the Nextcloud connection
+
+<p align="center"><img src="screenshots/04-help.jpg" alt="Step-by-step guide for the Nextcloud connection" width="850"></p>
+
+### 5️⃣ Light colour scheme, log and site exceptions
+
+<p align="center"><img src="screenshots/05-light-theme.jpg" alt="Light colour scheme, log and site exceptions" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Works with your own Nextcloud:** Uses the Passwords app of your Nextcloud as the safe store, nothing goes to third parties.

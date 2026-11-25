@@ -45,6 +45,30 @@ Ein Master-Passwort sperrt den Zugriff, bis Firefox geschlossen wird. GLX Passwo
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Einstellungen: Nextcloud-Verbindung, Hauptpasswort, Firefox-Import
+
+<p align="center"><img src="screenshots/01-settings.jpg" alt="Einstellungen: Nextcloud-Verbindung, Hauptpasswort, Firefox-Import" width="850"></p>
+
+### 2️⃣ Neues Passwort direkt aus der Symbolleiste speichern
+
+<p align="center"><img src="screenshots/02-new-password.jpg" alt="Neues Passwort direkt aus der Symbolleiste speichern" width="850"></p>
+
+### 3️⃣ Symbolleisten-Fenster mit Verbindungsstatus
+
+<p align="center"><img src="screenshots/03-popup.jpg" alt="Symbolleisten-Fenster mit Verbindungsstatus" width="850"></p>
+
+### 4️⃣ Schritt-für-Schritt-Anleitung für die Nextcloud-Verbindung
+
+<p align="center"><img src="screenshots/04-help.jpg" alt="Schritt-für-Schritt-Anleitung für die Nextcloud-Verbindung" width="850"></p>
+
+### 5️⃣ Helles Farbschema, Protokoll und Seiten ohne Nachfrage
+
+<p align="center"><img src="screenshots/05-light-theme.jpg" alt="Helles Farbschema, Protokoll und Seiten ohne Nachfrage" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Arbeitet mit deiner Nextcloud:** Nutzt die Passwords-App deiner Nextcloud als sicheren Speicher. Nichts geht an Dritte.
